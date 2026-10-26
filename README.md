@@ -15,7 +15,6 @@ Java developer who enjoys fixing bugs in open-source projects.
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=markjoin123&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markjoin123&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 <img src="https://streak-stats.demolab.com?user=markjoin123&hide_border=true" alt="GitHub streak" />
