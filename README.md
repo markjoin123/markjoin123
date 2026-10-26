@@ -2,6 +2,24 @@
 
 Java developer who enjoys fixing bugs in open-source projects.
 
+### 🛠 Tech stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 📊 GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=markjoin123&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markjoin123&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+<img src="https://streak-stats.demolab.com?user=markjoin123&hide_border=true" alt="GitHub streak" />
+
 ### 🌱 Open-source contributions
 
 **Merged**
