@@ -1,6 +1,10 @@
 ## Hi, I'm markxu 👋
 
-Java developer who enjoys fixing bugs in open-source projects.
+Backend engineer focused on **Java** and distributed systems — API gateways, load balancing and service registration.
+
+- 🔭 Contributing to **Apache ShenYu**, **PMD**, **Checkstyle** and **Apache HertzBeat**
+- 🧠 Interested in static analysis, high-performance gateways and AI developer tooling
+- 🤝 Open to collaboration on open-source infrastructure projects
 
 ### 🛠 Tech stack
 
