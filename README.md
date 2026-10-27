@@ -40,5 +40,6 @@ Backend engineer focused on **Java** and distributed systems — API gateways, l
 | [pmd/pmd](https://github.com/pmd/pmd) | [#7203](https://github.com/pmd/pmd/pull/7203), [#7202](https://github.com/pmd/pmd/pull/7202), [#7198](https://github.com/pmd/pmd/pull/7198), [#7197](https://github.com/pmd/pmd/pull/7197) |
 | [apache/hertzbeat](https://github.com/apache/hertzbeat) | [#4478](https://github.com/apache/hertzbeat/pull/4478) |
 | [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | [#15391](https://github.com/Kilo-Org/kilocode/pull/15391) fix(session): reset usage stats when forking a session |
+| [lobehub/lobehub](https://github.com/lobehub/lobehub) | [#21666](https://github.com/lobehub/lobehub/pull/21666) fix(onboarding): return an empty template catalog on Market 401/403 |
 
 📍 Shijiazhuang, China
