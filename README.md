@@ -43,4 +43,4 @@ Backend engineer focused on **Java** and distributed systems — API gateways, l
 | [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | [#15391](https://github.com/Kilo-Org/kilocode/pull/15391) fix(session): reset usage stats when forking a session; [#15489](https://github.com/Kilo-Org/kilocode/pull/15489) fix(agent-manager): preserve untracked symlinks when moving to worktree |
 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | [#21666](https://github.com/lobehub/lobehub/pull/21666) fix(onboarding): return an empty template catalog on Market 401/403; [#21755](https://github.com/lobehub/lobehub/pull/21755) fix(device-control): keep nested Windows project files in their folders |
 
-📍 Shijiazhuang, China
+📍 Beijing, China
