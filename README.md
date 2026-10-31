@@ -38,9 +38,10 @@ Backend engineer focused on **Java** and distributed systems — API gateways, l
 | Project | Pull request |
 | --- | --- |
 | [apache/shenyu](https://github.com/apache/shenyu) | [#7987](https://github.com/apache/shenyu/pull/7987) fix(loadbalancer): track inflight for shortestResponse |
-| [pmd/pmd](https://github.com/pmd/pmd) | [#7202](https://github.com/pmd/pmd/pull/7202), [#7198](https://github.com/pmd/pmd/pull/7198), [#7197](https://github.com/pmd/pmd/pull/7197) |
-| [apache/hertzbeat](https://github.com/apache/hertzbeat) | [#4478](https://github.com/apache/hertzbeat/pull/4478) |
-| [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | [#15391](https://github.com/Kilo-Org/kilocode/pull/15391) fix(session): reset usage stats when forking a session; [#15489](https://github.com/Kilo-Org/kilocode/pull/15489) fix(agent-manager): preserve untracked symlinks when moving to worktree |
-| [lobehub/lobehub](https://github.com/lobehub/lobehub) | [#21666](https://github.com/lobehub/lobehub/pull/21666) fix(onboarding): return an empty template catalog on Market 401/403; [#21755](https://github.com/lobehub/lobehub/pull/21755) fix(device-control): keep nested Windows project files in their folders |
+| [pmd/pmd](https://github.com/pmd/pmd) | [#7202](https://github.com/pmd/pmd/pull/7202) [java] Fix #4531: MissingStaticMethodInNonInstantiatableClass false positive with multiple top-level classes<br>[#7198](https://github.com/pmd/pmd/pull/7198) [java] Fix #6731: UnnecessaryFullyQualifiedName false positive for lombok Builder<br>[#7197](https://github.com/pmd/pmd/pull/7197) [java] Fix #6327: AddEmptyString false positive for compile-time constants |
+| [apache/hertzbeat](https://github.com/apache/hertzbeat) | [#4478](https://github.com/apache/hertzbeat/pull/4478) [bugfix] resolve firing alerts when a monitor is deleted |
+| [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | [#15391](https://github.com/Kilo-Org/kilocode/pull/15391) fix(session): reset usage stats when forking a session<br>[#15489](https://github.com/Kilo-Org/kilocode/pull/15489) fix(agent-manager): preserve untracked symlinks when moving to worktree |
+| [lobehub/lobehub](https://github.com/lobehub/lobehub) | [#21666](https://github.com/lobehub/lobehub/pull/21666) fix(onboarding): return an empty template catalog on Market 401/403<br>[#21755](https://github.com/lobehub/lobehub/pull/21755) fix(device-control): keep nested Windows project files in their folders |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | [#1236](https://github.com/pbakaus/impeccable/pull/1236) Fix: install interactively selected providers when another provider is already installed |
 
 📍 Beijing, China
