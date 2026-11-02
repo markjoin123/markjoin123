@@ -32,6 +32,7 @@ Backend engineer focused on **Java** and distributed systems — API gateways, l
 | [apache/shenyu](https://github.com/apache/shenyu) | [#7861](https://github.com/apache/shenyu/pull/7861) fix(register): report the bound server port for gateway instance identity<br>[#8185](https://github.com/apache/shenyu/pull/8185) fix(admin): add PostgreSQL and Oracle reservation SQL for AppAuth requests |
 | [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) | [#22063](https://github.com/checkstyle/checkstyle/pull/22063) Migrate XpathRegressionNestedForDepthTest to verifyXpathWithInlineConfigParser |
 | [pmd/pmd](https://github.com/pmd/pmd) | [#7203](https://github.com/pmd/pmd/pull/7203) [java] Fix #4576: UseShortArrayInitializer false positive with arrays of parameterized types |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2223](https://github.com/HKUDS/DeepTutor/pull/2223) fix(rag): index MinerU reference lists and skip page furniture |
 
 **In review**
 
@@ -42,6 +43,5 @@ Backend engineer focused on **Java** and distributed systems — API gateways, l
 | [apache/hertzbeat](https://github.com/apache/hertzbeat) | [#4478](https://github.com/apache/hertzbeat/pull/4478) [bugfix] resolve firing alerts when a monitor is deleted |
 | [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | [#15391](https://github.com/Kilo-Org/kilocode/pull/15391) fix(session): reset usage stats when forking a session<br>[#15489](https://github.com/Kilo-Org/kilocode/pull/15489) fix(agent-manager): preserve untracked symlinks when moving to worktree |
 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | [#21666](https://github.com/lobehub/lobehub/pull/21666) fix(onboarding): return an empty template catalog on Market 401/403<br>[#21755](https://github.com/lobehub/lobehub/pull/21755) fix(device-control): keep nested Windows project files in their folders |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | [#1236](https://github.com/pbakaus/impeccable/pull/1236) Fix: install interactively selected providers when another provider is already installed |
 
 📍 Beijing, China
