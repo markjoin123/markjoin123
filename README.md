@@ -47,5 +47,6 @@ Backend engineer focused on **Java** and distributed systems — API gateways, l
 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2332](https://github.com/HKUDS/DeepTutor/pull/2332) fix(ima): route search folder-name hits away from document hydration |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | [#1347](https://github.com/DietrichGebert/ponytail/pull/1347) fix(band): count only the turns since /clear in the task cost<br>[#1349](https://github.com/DietrichGebert/ponytail/pull/1349) fix(band): write board.html when importing past sessions |
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5387](https://github.com/thedotmack/claude-mem/pull/5387) fix(context): time out hung context-reader requests |
+| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | [#1217](https://github.com/JetBrains/thinkrail/pull/1217) fix(server): read Ollama's reported context window |
 
 📍 Beijing, China
