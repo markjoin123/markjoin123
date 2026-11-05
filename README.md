@@ -46,5 +46,6 @@ Backend engineer focused on **Java** and distributed systems — API gateways, l
 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | [#21666](https://github.com/lobehub/lobehub/pull/21666) fix(onboarding): return an empty template catalog on Market 401/403<br>[#21755](https://github.com/lobehub/lobehub/pull/21755) fix(device-control): keep nested Windows project files in their folders |
 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | [#2332](https://github.com/HKUDS/DeepTutor/pull/2332) fix(ima): route search folder-name hits away from document hydration |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | [#1347](https://github.com/DietrichGebert/ponytail/pull/1347) fix(band): count only the turns since /clear in the task cost<br>[#1349](https://github.com/DietrichGebert/ponytail/pull/1349) fix(band): write board.html when importing past sessions |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [#5387](https://github.com/thedotmack/claude-mem/pull/5387) fix(context): time out hung context-reader requests |
 
 📍 Beijing, China
